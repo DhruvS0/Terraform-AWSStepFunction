@@ -12,6 +12,7 @@ Terraform: The project's infrastructure-as-code tool for deployment and manageme
 You must have an AWS account and the AWS CLI installed on your local computer before continuing.
 You must also set up the required IAM roles and policies in addition to configuring your AWS login information.
 
-![image](https://github.com/DhruvS0/Terraform-AWSStepFunction/assets/113872537/e157d857-c269-4a26-b908-ef00d4b831ad)
+![Blank board](https://github.com/DhruvS0/Terraform-AWSStepFunction/assets/113872537/83f0cf6b-f7cf-4442-b78e-5bd8011e2f4b)
+
 
 
